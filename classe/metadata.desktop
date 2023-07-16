@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=Classe
+Description=A classy|modern SDDM theme ;)
+
+Author=Douglas Guimarães, KDE Visual Design Group
+Copyright=(c) 2014, David Edmundson(original plasma theme), (c) 2023, Douglas Guimarães
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=dg2003gh@gmail.com
+Theme-Id=Classe
+Theme-API=2.0
